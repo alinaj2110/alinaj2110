@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🏢 I'm currently a 4th Year B.Tech. student under the CSE department
+- 🏢 I'm currently a System Software Development Engineer @ Intel 
 - 💻 I've worked on Projects using **Python, Tensorflow, MERN Stack, Spark,Unity and Vuforia**
 - 🌱 I’m currently learning **Deep Learning, Tensorflow, Hadoop and Spark**
 - 📫 How to reach me: anjalipraveen2110@gmail.com
